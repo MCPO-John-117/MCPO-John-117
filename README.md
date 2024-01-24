@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MCPO-John-117
-- 👀 I’m interested in learning from zero
-- 🌱 I’m currently learning Golang
+
 - 💞️ I’m looking to collaborate on anything that will help me learn
 
 <!---
